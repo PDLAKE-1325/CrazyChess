@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef79ec4e5dd074732bdb1983b7b3f2e8, type: 3}
+  m_Name: PowerPawn
+  m_EditorClassIdentifier: Assembly-CSharp::ItemSO
+  itemName: "\uD3F0\uC774 \uC228\uACA8\uB193\uC740 \uBE44\uD0C0 500"
+  description: "\uC804\uC7A5\uC5D0\uC11C \uBC84\uB9BC\uB9D0\uB85C \uC4F0\uC774\uB294
+    \uBD88\uC30D\uD55C \uD3F0\n\uAC00\uAE30 \uC804\uC5D0 \uBE44\uD0C0 500 \uD55C
+    \uBCD1\uCBE4\uC740 \uAD1C\uCC2E\uC796\uC544?\n[ \uD3F0\uC758 \uC774\uB3D9\uBC18\uACBD\uC774
+    \uAC15\uD654\uB429\uB2C8\uB2E4. ]"
+  icon: {fileID: 21300000, guid: 09d925a851b8847428c931ac60d5efef, type: 3}
+  item_type: 0
+  fit_unit_type: 0
+  moveBoost_tiles:
+  - {x: 1, y: 0}
+  - {x: -1, y: 0}

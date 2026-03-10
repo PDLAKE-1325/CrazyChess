@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54584364f0543466fa819d5c2f69568d, type: 3}
+  m_Name: b_BiPawn
+  m_EditorClassIdentifier: Assembly-CSharp::CombineSO
+  combine_from_types: 0000000003000000
+  combine_from_offsets:
+  - {x: 2, y: 6}
+  - {x: 2, y: 7}
+  combine_property_id: 0
+  combine_to_object_prefab: {fileID: 3003855142432651295, guid: dc60d5168d9264c7fbf0fc80f330de02, type: 3}
+  combine_to_offset: {x: 2, y: 6}
+  is_white_unit: 0
